@@ -1,0 +1,2 @@
+class EmptySlotsException(Exception):
+    pass
